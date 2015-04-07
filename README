@@ -27,4 +27,4 @@ env.password secret-password
 and/or
 
 [redis_remoteserverip_remoteserverport]
-env.passwod another-secret-password
+env.password another-secret-password
